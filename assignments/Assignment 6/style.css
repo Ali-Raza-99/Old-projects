@@ -1,0 +1,43 @@
+ *{
+     margin: 0;
+     padding: 0;
+ }
+ 
+ ul{
+    float: right;
+    margin: 30px;
+    font-weight: bold;
+
+}
+ul li {
+    display: inline-block;  
+    color:rgba(250, 96, 96, 0.876);
+}
+
+.logo img {
+    float: left;
+    width: 95px;
+    height: 80px;
+
+}
+.main{
+    max-width: 1220px;
+    margin: auto;
+}
+ul {
+    word-spacing: 60px;
+} 
+}
+.header {
+    background-color:rgb(241, 238, 236);
+}
+.footer {
+    background-color: rgb(57, 160, 105);
+    height: 75px;
+    text-align: center;
+    display: inline-block;
+    word-spacing: 370px;
+}
+.footer img{
+    margin-top: 12px;
+}

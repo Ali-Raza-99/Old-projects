@@ -1,0 +1,19 @@
+ul li{
+    
+    display: inline-block;
+    font-size: large;
+    margin-top: 18px;
+    color:white;
+    
+}
+ul{
+    text-align: center;
+    word-spacing: 70px;
+}
+.nav{
+    background-color:black;
+    width: 99.3%;
+    height: 60px;
+    margin-top: 1px;
+    opacity: 0.9;
+}

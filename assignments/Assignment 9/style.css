@@ -1,0 +1,119 @@
+body{
+   background-color:rgb(232, 240, 246);
+}
+.facebook img{
+    height: 106px;
+    position: absolute;
+    left: 152px;
+    top: 175px;
+}
+.facebook p {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    position: absolute;
+    left: 180px;
+    top: 245px;
+}
+.loginbox{
+    
+        align-items: center;
+        background-color: white;
+        border: none;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+        box-sizing: border-box;
+        margin: 40px 0 0;
+        padding: 20px 0 28px;
+        width: 396px;
+        height: 355px;
+        position: relative;
+        left: 752px;
+        top: 90px;
+    }
+input{ 
+    border-radius: 6px;
+    border:1px solid  rgb(219, 216, 216);
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    background-color: rgb(223, 232, 235);
+    position: relative;
+    left: 16px;
+
+}
+
+.sinput{
+    position: relative;
+    top: 11px;
+}
+.login{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px;
+    position: relative;
+    left: 16px;
+    top: 22px;
+}
+.login a {
+
+    font-family: arial;
+    color: white;
+    text-decoration: initial;
+    font-weight: bold;
+    position: relative;
+    left: 134px;
+}
+#forgetpassword{
+    font-family: arial;
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    top: 25px;
+    left: 132px;
+}
+.line{
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    position: relative;
+    left: 17px;
+    top: 35px;
+    text-align: center;
+    width: 363px;
+}
+.newaccount{
+    background-color:#42b72a;;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 166px;
+    position: relative;
+    left: 97px;
+    top: 64px;
+}
+.newaccount a{
+    font-family: arial;
+    color: white;
+    font-size: medium;
+    text-decoration: initial;
+    font-weight: bold;
+    position: relative;
+    left: 6px;
+}
+.footer{
+    font-family: arial;
+    position: relative;
+    left: 805px;
+    top: 97px;
+    font-size: 14px;
+}
